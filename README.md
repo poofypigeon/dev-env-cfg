@@ -9,7 +9,3 @@
  * nvim
  * tmux
  * fzf
-
-## TODO:
- * UndoTree
- * LSP
