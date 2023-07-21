@@ -2,6 +2,7 @@ require('remap')
 require('netrw')
 require('spacing')
 require('plugins')
+require('extra_whitespace')
 
 -- misc
 vim.g.netrw_banner    = false

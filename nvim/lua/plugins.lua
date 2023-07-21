@@ -31,7 +31,7 @@ return require('packer').startup(function(use)
             require('nord').set()
         end
     }
-    
+
     use {
         'ibhagwan/fzf-lua',
         config = function()
